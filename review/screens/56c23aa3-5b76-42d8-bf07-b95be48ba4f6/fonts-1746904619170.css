@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Artifika_21.0.0_google";
+  src: url("../../../fonts/Artifika-Regular_21.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Asar_23.0.0_google";
+  src: url("../../../fonts/Asar-Regular_23.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Arsenal SC_1.0.0_google";
+  src: url("../../../fonts/Arsenal SC-Regular_1.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Asul_21.0.0_google";
+  src: url("../../../fonts/Asul-Regular_21.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
